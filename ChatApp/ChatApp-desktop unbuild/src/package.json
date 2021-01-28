@@ -1,0 +1,10 @@
+{
+  "name": "chatapp-desktop",
+  "version": "1.9.5",
+  "description": "ChatApp-desktop installer",
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
