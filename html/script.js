@@ -7,8 +7,6 @@ var dingSound;
 var messages = [];
 var delay = true;
 
-
-
 function onload(){
   
   socket = io();
